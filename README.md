@@ -1,2 +1,2 @@
-# enample_app1
+# example_app1
 Test R shiny app
